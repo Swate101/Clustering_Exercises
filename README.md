@@ -1,2 +1,3 @@
 # Clustering_Exercises
-These are the Exercises for refrence and a requirment
+Exercises for the code up Program 
+Also a copy of Final report used in some of the exercises 
